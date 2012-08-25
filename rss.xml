@@ -4,8 +4,24 @@
 <description><![CDATA[My Octopress Blog]]></description>
 <title><![CDATA[My Octopress Blog]]></title>
 <link>http://ilonglong.github.com/</link>
-<pubDate>2012-08-25T21:35:59+08:00</pubDate>
+<pubDate>2012-08-25T21:41:32+08:00</pubDate>
 
+
+<item>
+<description>
+<![CDATA[
+
+
+Included file 'post/copyright.html' not found in _includes directory
+]]>
+</description>
+<title><![CDATA[3rd]]></title>
+<link>http://ilonglong.github.com/blog/2012/08/25/3rd/</link>
+<pubDate>2012-08-25T21:41:00+08:00</pubDate>
+<guid isPermaLink="false">http://ilonglong.github.com/blog/2012/08/25/3rd</guid>
+
+<source url="http://ilonglong.github.com/rss.xml"><![CDATA[My Octopress Blog]]></source>
+</item>
 
 <item>
 <description>
